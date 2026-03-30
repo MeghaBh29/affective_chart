@@ -1,0 +1,7 @@
+{
+  "prompt": "Four women in national dress — German dirndl, British tweed, American denim, Canadian plaid — each standing on a pile of era-specific objects, all reaching the same height. But as each woman rises, her body subtly warps and bends — the space around her upper body visually distorts, compresses, curves inward like a gravitational lens. Not a ceiling. Not a wall. Just reality itself resisting their ascent. The distortion is identical for all four women at the same height. Below: warm amber light, solid and real. Above: reality bends. Melancholic WPA mural oil painting, single frame. No text. No signs. No labels. No charts.",
+  "model": "DALL-E 3 via Microsoft Designer",
+  "dataset_name": "Female Labor Force Participation Rate, 1890 to 2024",
+  "dataset_url": "https://ourworldindata.org/grapher/female-labor-force-participation-rates-1890-2017",
+  "insight": "Despite taking different historical paths across 130 years, female labor force participation in Canada, the UK, the US, and Germany all converged at roughly 58% by 2024, suggesting a shared structural ceiling rather than continued progress toward parity."
+}
