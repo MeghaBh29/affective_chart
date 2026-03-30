@@ -3,5 +3,7 @@
   "model": "DALL-E 3 via Microsoft Designer",
   "dataset_name": "Female Labor Force Participation Rate, 1890 to 2024",
   "dataset_url": "https://ourworldindata.org/grapher/female-labor-force-participation-rates-1890-2017",
-  "insight": "Despite taking different historical paths across 130 years, female labor force participation in Canada, the UK, the US, and Germany all converged at roughly 58% by 2024, suggesting a shared structural ceiling rather than continued progress toward parity."
+  "insight": "Despite taking different historical paths across 130 years, female labor force participation in Canada, the UK, the US, and Germany all converged at roughly 58% by 2024, suggesting a shared structural ceiling rather than continued progress toward parity.",
+  "concept": "Four women from different countries standing on piles of accumulated labor from their respective histories, all reaching the exact same height — visualizing how different national trajectories converged at the same participation rate.",
+  "metaphor": "Gravitational distortion replacing the glass ceiling — reality itself bends and compresses around the women as they rise, encoding the invisible systemic resistance that identically limits all four countries at the same point."
 }
